@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.validation.issue
+---
+testFramework: spock
+sourceLanguage: groovy
